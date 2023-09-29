@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "Jet.png;." --add-data "earth.png;." --add-data "Backround.png;." Jet_game.py
